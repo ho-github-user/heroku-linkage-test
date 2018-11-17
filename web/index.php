@@ -23,3 +23,5 @@ $app->get('/', function() use($app) {
 });
 
 $app->run();
+
+echo "てきとうに更新してみるてすと"
