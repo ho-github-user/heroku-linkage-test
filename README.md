@@ -1,3 +1,4 @@
+- heroku app url https://github-linkage-test.herokuapp.com/
 - 自分用メモ：heroku php deploy用のサンプルプロジェクト(cloneしたもの)
 - このリポジトリのmasterにプッシュすると、herokuに自動デプロイされるところまで。
 - herokuアカウントつくる
